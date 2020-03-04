@@ -1,0 +1,2 @@
+scarica il file .zip, apri il Mondo di Minecraft dove vuoi installare il datapack, premi la combinazione di tasti WIN+R e scrivi %appdata%, vai su .minecraft > saves > nome del mondo > datapacks e all'interno di questa cartella inserire il file .zip scaricato.
+tornare nel mondo e eseguire il comando /reload, aspettare che il messaggio di conferma appaia in chat
